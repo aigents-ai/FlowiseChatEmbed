@@ -50,7 +50,7 @@ export const Badge = (props: Props) => {
         'background-color': props.badgeBackgroundColor ?? '#ffffff',
       }}
     >
-      Powered by aigents.ai
+      Powered by ✨ aigents.ai
     </span>
   );
 };
